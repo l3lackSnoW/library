@@ -1,0 +1,5 @@
+bookid,isbn,title,author,publisher,pubdate,genre,format
+1,978-0-143-33357-9,Rusty and the Magic Mountain,Ruskin Bond,Puffin Books,1/9/2015,"Adventure, Fiction, Children's",Hardcover
+2,978-0-141-33909-2,Artemis Fowl,Eoin Colfer,Puffin Books,1/4/2011,"Fantasy, Science-Fiction, Young Adult",Paperback
+3,978-0-141-33911-5,Artemis Fowl and the Eternity Code,Eoin Colfer,Puffin Books,1/4/2011,"Fantasy, Science-Fiction, Young Adult",Paperback
+4,978-0-141-33913-9,Artemis Fowl and the Opal Deception,Eoin Colfer,Puffin Books,1/5/2011,"Fantasy, Science-Fiction, Young Adult",Paperback
